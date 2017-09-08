@@ -1,3 +1,3 @@
 #!/bin/bash
 
-brew install marathon-swift
+brew install marathon-swift minizip
